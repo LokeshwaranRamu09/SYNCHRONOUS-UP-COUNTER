@@ -87,12 +87,12 @@ out <= out+1;
 
 # RTL OUTPUT
 
-![Screenshot 2024-12-23 054830](https://github.com/user-attachments/assets/d12d87d3-cdbd-407e-9aeb-e92afc8379c8)
+![Screenshot 2024-12-23 054830](https://github.com/user-attachments/assets/177ea789-333b-4ff4-91ed-a43f1b9f0ee2)
 
 
 # OUTPUT WAVWFORM
 
-![Screenshot 2024-12-23 054737](https://github.com/user-attachments/assets/6fa7295d-9ca8-4f08-ba33-96d140798222)
+![Screenshot 2024-12-23 054737](https://github.com/user-attachments/assets/71dbff21-6cbd-47c7-8be8-982aba42f160)
 
 # RESULTS
 
