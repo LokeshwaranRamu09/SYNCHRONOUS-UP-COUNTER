@@ -12,21 +12,20 @@ Quartus prime
 
 # THEORY
 
-A synchronous up counter is a type of sequential digital circuit that counts upward in a binary
- sequence, with all flip-flops triggered by a common clock signal. The key characteristic of a
- synchronous counter is that all flip-flops update their states simultaneously, ensuring precise and
- coordinated transitions, unlike asynchronous counters where flip-flops update one after another.
- In a synchronous up counter, the number of flip-flops (𝑛n) needed is determined by the maximum
- count. The counter will count from 0 to 𝑁−1 N−1, where 𝑁N is the maximum value. To find the
- minimum number of flip-flops required, the formula 2𝑛≥𝑁2 n≥N is used.
- Each flip-flop in the counter represents one bit of the binary output. The least significant bit (LSB)
- toggles with every clock pulse, while higher-order bits toggle based on the states of lower-order
- bits. Combinational logic, often implemented using AND, OR, or XOR gates, controls the inputs to
- the flip-flops to ensure the correct counting sequence.
- Synchronous up counters are used in various applications, such as: Event counting Digital clocks
- Frequency dividers Addressing in memory systems
- Their primary advantage is the uniform timing and faster operation due to the simultaneous
- updates of all flip-flops
+A synchronous up counter is a type of sequential digital circuit that counts upward in a binary                                                                                                             
+sequence, with all flip-flops triggered by a common clock signal. The key characteristic of a                                                                                                             
+synchronous counter is that all flip-flops update their states simultaneously, ensuring precise and
+coordinated transitions, unlike asynchronous counters where flip-flops update one after another.
+In a synchronous up counter, the number of flip-flops (𝑛n) needed is determined by the maximum
+count. The counter will count from 0 to 𝑁−1 N−1, where 𝑁N is the maximum value. To find the
+minimum number of flip-flops required, the formula 2𝑛≥𝑁2 n≥N is used.
+Each flip-flop in the counter represents one bit of the binary output. The least significant bit (LSB)
+toggles with every clock pulse, while higher-order bits toggle based on the states of lower-order
+bits. Combinational logic, often implemented using AND, OR, or XOR gates, controls the inputs to
+the flip-flops to ensure the correct counting sequence.
+Synchronous up counters are used in various applications, such as: Event counting Digital clocks
+Frequency dividers Addressing in memory systems
+Their primary advantage is the uniform timing and faster operation due to the simultaneous                                                                                                                           updates of all flip-flops
  
 # 4 BIT SYNCHRONOUS UP COUNTER
 
