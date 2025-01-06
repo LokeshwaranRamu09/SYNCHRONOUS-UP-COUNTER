@@ -91,7 +91,8 @@ out <= out+1;
 
 # OUTPUT WAVWFORM
 
-![Screenshot 2024-12-23 054737](https://github.com/user-attachments/assets/71dbff21-6cbd-47c7-8be8-982aba42f160)
+
+![IMG_20250106_125259](https://github.com/user-attachments/assets/a993fef3-22ba-41a2-ab0d-0127e35b4bae)
 
 # RESULTS
 
